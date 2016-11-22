@@ -1,0 +1,16 @@
+<html>
+    <head>
+      <title>美拍视频下载</title>
+      <style>
+         a{
+             text-decoration:none;
+         }
+        </style>
+    </head>
+
+    <body>
+        <center>
+          <h1><a href="{{url}}" target="_blank">点击这里下载<a/></h1>
+        </center>
+    </body>
+</html>
